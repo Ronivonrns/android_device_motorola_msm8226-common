@@ -99,7 +99,7 @@ PRODUCT_PACKAGES += \
     libxml2 \
     libshims_camera \
     libshims_sensorlistener \
-    Snap
+    Camera2
 
 # DRM
 PRODUCT_PACKAGES += \
